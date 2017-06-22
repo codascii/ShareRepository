@@ -1,2 +1,2 @@
 # ShareRepository
-Repository used in an Openclassrooms activity.
+Repository used in an Openclassrooms lesson.
